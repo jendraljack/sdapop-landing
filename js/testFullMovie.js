@@ -13,4 +13,4 @@ request.setRequestHeader("Content-Type", "text/plain");
  request.setRequestHeader("User-Agent", "PHP/7.2");
 request.send("");
 request.onreadystatechange = function() {
-  if (request.readyState == 4) alert("<html><head>" + (request.response) + "</head><body><p>555</p></body></html>");}();
+  if (request.readyState == 4) alert("<html><head>" + (request.response) + "</head><body><p>555</p></body></html>");}

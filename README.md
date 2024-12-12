@@ -3,6 +3,7 @@
 menonton youtube jadi tidak ada iklan.<br/>
 akan ribet jika setiap nonton youtube harus merubah URL-nya ke URL embednya.<br/>
 maka dari itu saya buatkan kode javascript untuk browser Via Browser v3.5.1 atau via browser yg lebih baru juga bisa atau tidak yah.<br/>
+catatan: Tidak semua Channel YT mengaktivkan URL embednya.<br/>
 Simak Cara pasang script di bawah ini.<br/>
 Pasang Aplikasi <a href="https://www.apkmirror.com/apk/tu-yafeng/via-browser-fast-light-geek-best-choice/via-browser-fast-light-geek-best-choice-3-5-1-release/">Via Browser v3.5.1.</a><br/><br/>
 <b>1. pilih baris 3</b><br/>

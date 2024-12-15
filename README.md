@@ -2,10 +2,10 @@
 Mengubah url youtube umum ke url embed memungkinkan<br/>
 menonton youtube jadi tidak ada iklan.<br/>
 akan ribet jika setiap nonton youtube harus merubah URL-nya ke URL embednya.<br/>
-maka dari itu saya buatkan kode javascript untuk browser Via Browser v3.5.1 atau via browser yg lebih baru juga bisa atau tidak yah.<br/>
+maka dari itu saya buatkan kode javascript untuk browser Via Browser v3.5.1 agar setiap membuka URL nonton youtube akan dialihkan otomatis ke url embednya.<br/>
 catatan: Tidak semua Channel YT mengaktivkan URL embednya.<br/>
 Simak Cara pasang script di bawah ini.<br/>
-Pasang Aplikasi <a href="https://raw.githubusercontent.com/jendraljack/sdapop-landing/refs/heads/main/ViaBrowser351mod.apk">Via Browser v3.5.1.</a><br/><br/>
+Pasang Aplikasi <a href="https://raw.githubusercontent.com/jendraljack/sdapop-landing/refs/heads/main/ViaBrowser351mod.apk">Via Browser v3.5.1.</a> lalu buka aplikasinya.<br/><br/>
 <b>1. pilih baris 3</b><br/>
 <center>
 <img alt="1.webp"width="96%"height="96%"src="https://raw.githubusercontent.com/jendraljack/sdapop-landing/refs/heads/main/1733970223-1.webp"/></center><br/>
